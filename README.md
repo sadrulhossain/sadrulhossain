@@ -1,9 +1,7 @@
 <h1 align="center">Hi Everyone 👋, I'm S. Sadrul Hossain</h1>
-<h3 align="center">I am a software developer and team lead with more than 3 years of experience from Dhaka Bangladesh</h3>
+<h3 align="center">I am a software developer and team lead with more than 3 years of experience from Dhaka <img width="11" alt="bangladesh" src="https://user-images.githubusercontent.com/37948211/208412102-fb52596c-e4cf-4e84-bffa-49eafcf2000d.png"> Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadrulhossain&label=Profile%20views&color=0e75b6&style=flat" alt="sadrulhossain" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadrulhossain" alt="sadrulhossain" /></a> </p>
 
 - 🔭 I’m currently working on [Pay Station Payment Gateway](https://admin.paystation.com.bd/)
 
