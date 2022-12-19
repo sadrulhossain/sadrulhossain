@@ -35,6 +35,6 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadrulhossain&show_icons=true&locale=en&layout=compact" alt="sadrulhossain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadrulhossain&show_icons=true&locale=en" alt="sadrulhossain" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sadrulhossain&show_icons=true&locale=en" alt="sadrulhossain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadrulhossain&" alt="sadrulhossain" /></p>
