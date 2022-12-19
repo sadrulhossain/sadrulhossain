@@ -37,14 +37,10 @@
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<div>
-  <div style="display:inline; float:left; width:45%">
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadrulhossain&show_icons=true&locale=en&layout=compact" alt="sadrulhossain"
-         width="100%" height="auto"/>
-  </div>
-  <div style="display:inline; float:left; width:55%">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sadrulhossain&show_icons=true&locale=en" alt="sadrulhossain" width="100%" height="auto"/>
-    <br/>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sadrulhossain&" alt="sadrulhossain" width="30%" height="auto" /></p>
-  </div>
-</div>
+         width="33%" height="auto"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sadrulhossain&show_icons=true&locale=en" alt="sadrulhossain" width="33%" height="auto"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sadrulhossain&" alt="sadrulhossain" width="33%" height="auto" /></p>
+
+ </p>
