@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software developer and team lead with more than 3 years of experience from Dhaka ![image](https://user-images.githubusercontent.com/37948211/208350709-3750e0a5-639f-4542-aa2e-483f2863eb9a.png) Bangladesh. I am sincere, hard-working and fast learner. I am always eager to learn new technologies, if necessary. I am willing to build a sound professional career as software analyst with dedication.
+I am a software developer and team lead with more than 3 years of experience from Dhaka <img width="11" alt="bangladesh" src="https://user-images.githubusercontent.com/37948211/208350945-f11257d0-1842-4111-b35f-0c3ecef09b5c.png"> Bangladesh. I am sincere, hard-working and fast learner. I am always eager to learn new technologies, if necessary. I am willing to build a sound professional career as software analyst with dedication.
