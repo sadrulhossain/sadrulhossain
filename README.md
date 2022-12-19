@@ -2,13 +2,10 @@
 <h3 align="left">I am a software developer and team lead with more than 3 years of experience from Dhaka <img width="11" alt="bangladesh" src="https://user-images.githubusercontent.com/37948211/208412102-fb52596c-e4cf-4e84-bffa-49eafcf2000d.png"> Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadrulhossain&label=Profile%20views&color=0e75b6&style=flat" alt="sadrulhossain" /> </p>
-
+# 💫 About Me:
 - 🔭 I’m currently working on [Pay Station Payment Gateway](https://admin.paystation.com.bd/)
-
 - 🌱 I’m currently learning **React JS and node.js**
-
 - 💬 Ask me about **PHP, AJAX, CSS and Laravel**
-
 - 📫 How to reach me **hossainsadrul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
