@@ -40,7 +40,11 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadrulhossain&show_icons=true&locale=en&layout=compact" alt="sadrulhossain"
          width="30%" height="auto"/>
+  </p>
+  <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sadrulhossain&show_icons=true&locale=en" alt="sadrulhossain" width="31%" height="auto"/>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sadrulhossain&" alt="sadrulhossain" width="31%" height="auto" /></p>
+ </p>
+  <p>
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sadrulhossain&" alt="sadrulhossain" width="31%" height="auto" /></p>
 
  </p>
