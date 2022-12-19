@@ -2,6 +2,7 @@
 <h3 align="justify">I am a software developer and team lead with more than 3 years of experience from Dhaka Bangladesh. I am sincere, hard-working and fast learner. I am always eager to learn new technologies, if necessary. I am willing to build a sound professional career as software analyst with dedication.</h3>
 
 <h3 align="left">💫 Also know about me:</h3>
+
 - 🔭 I’m currently working on [Pay Station Payment Gateway](https://admin.paystation.com.bd/)
 
 - 🌱 I’m currently learning **ReactJS and node.js**
