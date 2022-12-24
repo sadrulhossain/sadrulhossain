@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **PHP, CSS, AJAX and Laravel**
 
-- ⚡ Visit my portfolio https://sadrulhossain.github.io/portfolio/
+<!-- - ⚡ Visit my portfolio https://sadrulhossain.github.io/portfolio/ -->
 
 - 📫 How to reach me **hossainsadrul@gmail.com**
 
