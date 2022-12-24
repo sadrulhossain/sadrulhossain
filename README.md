@@ -3,11 +3,13 @@
 
 <h3 align="left">💫 Also know about me:</h3>
 
-- 🔭 I’m currently working on [Pay Station Payment Gateway](https://admin.paystation.com.bd/)
+- 🔭 I’m currently working on [PayStation Payment Gateway](https://admin.paystation.com.bd/)
 
 - 🌱 I’m currently learning **ReactJS and node.js**
 
 - 💬 Ask me about **PHP, CSS, AJAX and Laravel**
+
+- 🌐 Visit my portfolio https://sadrulhossain.github.io/portfolio/
 
 - 📫 How to reach me **hossainsadrul@gmail.com**
 
