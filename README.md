@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PayStation Payment Gateway](https://admin.paystation.com.bd/)
 
-- 🌱 I’m currently learning **ReactJS and node.js**
+- 🌱 I’m currently learning **ReactJS and Python**
 
 - 💬 Ask me about **PHP, CSS, AJAX and Laravel**
 
