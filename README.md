@@ -1,9 +1,9 @@
 <h1 align="center">Hello everyone 👋, I'm S. Sadrul Hossain</h1>
-<h6 align="justify">I am a software developer and team lead with more than 4 years of experience from Dhaka Bangladesh. I am sincere, hard-working and fast learner. I am always eager to learn new technologies, if necessary. I am willing to build a sound professional career as software analyst with dedication.</h6>
+<p align="justify">I am a software developer and team lead with more than 4 years of experience from Dhaka Bangladesh. I am sincere, hard-working and fast learner. I am always eager to learn new technologies, if necessary. I am willing to build a sound professional career as software analyst with dedication.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadrulhossain&label=Profile%20views&color=0e75b6&style=flat" alt="sadrulhossain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadrulhossain" alt="sadrulhossain" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadrulhossain" alt="sadrulhossain" /></a> </p>
 
 - 🔭 I’m currently working in [Daraz (Technology - Product Management)](https://www.daraz.com.bd/)
 - 🌱 I’m currently learning **Node.js and Golang**
