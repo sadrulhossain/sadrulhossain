@@ -1,32 +1,28 @@
 <h1 align="center">Hello everyone 👋, I'm S. Sadrul Hossain</h1>
-<h3 align="center">I am a software developer and team lead with more than 4 years of experience from Dhaka Bangladesh. I am sincere, hard-working and fast learner. I am always eager to learn new technologies, if necessary. I am willing to build a sound professional career as software analyst with dedication.</h3>
+<h4 align="center">I am a software developer and team lead with more than 4 years of experience from Dhaka Bangladesh. I am sincere, hard-working and fast learner. I am always eager to learn new technologies, if necessary. I am willing to build a sound professional career as software analyst with dedication.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadrulhossain&label=Profile%20views&color=0e75b6&style=flat" alt="sadrulhossain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadrulhossain" alt="sadrulhossain" /></a> </p>
 
 - 🔭 I’m currently working in [Daraz (Technology - Product Management)](https://www.daraz.com.bd/)
-
 - 🌱 I’m currently learning **Node.js and Golang**
-
-- ⚡ Visit my portfolio [https://sadrulhossain.github.io/portfolio/](https://sadrulhossain.github.io/portfolio/)
-
 - 💬 Ask me about **PHP, CSS, AJAX and Laravel**
-
+- ⚡ Visit my portfolio [https://sadrulhossain.github.io/portfolio/](https://sadrulhossain.github.io/portfolio/)
 - 📫 How to reach me **hossainsadrul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/sadrul.hossain.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadrul.hossain.7" height="30" width="40" /></a>
 <a href="https://codepen.io/sadrul-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sadrul-hossain" height="30" width="40" /></a>
 <a href="https://dev.to/sadrulhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sadrulhossain" height="30" width="40" /></a>
 <a href="https://twitter.com/hossainsadrul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hossainsadrul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/s-sadrul-hossain-71624aa6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-sadrul-hossain-71624aa6/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22735187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22735187" height="30" width="40" /></a>
 <a href="https://codesandbox.com/hossainsadrul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hossainsadrul" height="30" width="40" /></a>
-<a href="https://fb.com/sadrul.hossain.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadrul.hossain.7" height="30" width="40" /></a>
 <a href="https://instagram.com/sadrulhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadrulhossain" height="30" width="40" /></a>
 <a href="https://dribbble.com/sadrulhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sadrulhossain" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sadrulhossain7233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sadrulhossain7233" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@sadrulhossain7233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sadrulhossain7233" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hossainsadrul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hossainsadrul" height="30" width="40" /></a>
 <a href="https://discord.gg/sadrulhossain_08697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sadrulhossain_08697" height="30" width="40" /></a>
 </p>
