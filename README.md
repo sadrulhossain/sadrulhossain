@@ -1,16 +1,6 @@
 <h1 align="center">Hello Everyone 👋, I'm S. Sadrul Hossain</h1>
 <p align="justify">I am a software engineer with more than 5 years of experience from Dhaka Bangladesh. I am sincere, hard-working and fast learner. I am always eager to learn new technologies, if necessary. I am willing to build a sound professional career as software analyst with dedication.</p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sadrulhossain&label=Profile%20views&color=0e75b6&style=flat" alt="sadrulhossain" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadrulhossain" alt="sadrulhossain" /></a> </p>
-
-- 🔭 I’m currently working in [Portonics Limited](https://portonics.com/)
-- 🌱 I’m currently learning **Flutter Mobile App Development**
-- 👨‍💻 Visit my portfolio [https://sadrulhossain.github.io/portfolio/](https://sadrulhossain.github.io/portfolio/)
-- 💬 Ask me about **PHP, OOP, Laravel, AJAX, JavaScript**
-- 📫 How to reach me **hossainsadrul@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sadrul-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sadrul-hossain" height="30" width="40" /></a>
@@ -27,6 +17,17 @@
 <a href="https://www.leetcode.com/sadrulhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sadrulhossain" height="30" width="40" /></a>
 <a href="https://discord.gg/sadrulhossain_08697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sadrulhossain_08697" height="30" width="40" /></a>
 </p>
+
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sadrulhossain&label=Profile%20views&color=0e75b6&style=flat" alt="sadrulhossain" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadrulhossain" alt="sadrulhossain" /></a> </p>
+
+- 🔭 I’m currently working in [Portonics Limited](https://portonics.com/)
+- 🌱 I’m currently learning **Flutter Mobile App Development**
+- 👨‍💻 Visit my portfolio [https://sadrulhossain.github.io/portfolio/](https://sadrulhossain.github.io/portfolio/)
+- 💬 Ask me about **PHP, OOP, Laravel, AJAX, JavaScript**
+- 📫 How to reach me **hossainsadrul@gmail.com**
 
 
 <h3 align="left">Programming Languages:</h3>
