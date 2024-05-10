@@ -77,7 +77,7 @@
 </p>
 </h3>
 </h3>
-<h3 align="left">Devops & Server Tools:</h3>
+<h3 align="left">Devops & Project Management Tools:</h3>
 <p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
@@ -85,11 +85,16 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/favicons/favicon.svg" alt="github" width="40" height="40"/> </a> 
+<a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://wac-cdn.atlassian.com/assets/img/favicons/bitbucket/favicon-32x32.png" alt="bitbucket" width="40" height="40"/> </a> 
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/jira2966.logowik.com.webp" alt="jira" width="40" height="40"/> </a> 
 </p>
 </h3>
 </h3>
 <h3 align="left">testing Tools:</h3>
 <p align="left">
+<a href="https://phpunit.de/" target="_blank" rel="noreferrer"> <img src="https://phpunit.de/img/phpunit.svg" alt="phpunit" width="40" height="40"/> </a> 
+<a href="https://pestphp.com/" target="_blank" rel="noreferrer"> <img src="https://pestphp.com/www/favicon.svg" alt="pest" width="40" height="40"/> </a> 
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
 </p>
 </h3>
