@@ -86,7 +86,7 @@
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/favicons/favicon.svg" alt="github" width="40" height="40"/> </a> 
-<a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://wac-cdn.atlassian.com/assets/img/favicons/bitbucket/favicon-32x32.png" alt="bitbucket" width="40" height="40"/> </a> 
+<a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="bitbucket" width="40" height="40"/> </a> 
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/jira2966.logowik.com.webp" alt="jira" width="40" height="40"/> </a> 
 </p>
 </h3>
