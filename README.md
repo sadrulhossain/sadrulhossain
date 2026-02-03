@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone 👋, I'm S. Sadrul Hossain</h1>
-<p align="justify">I am a software engineer with more than 5 years of experience from Dhaka Bangladesh. I am sincere, hard-working and fast learner. I am always eager to learn new technologies, if necessary. I am willing to build a sound professional career as software analyst with dedication.</p>
+<p align="justify">I am a software engineer with more than 6 years of experience from Dhaka Bangladesh. I am sincere, hard-working and fast learner. I am always eager to learn new technologies, if necessary. I am willing to build a sound professional career as software analyst with dedication.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
