@@ -1,6 +1,6 @@
 
 <h1 align="center">S. Sadrul Hossain</h1>
-<h3 align="center">Software Engineer | 7+ Years | Laravel · Vue.js · Node.js · AWS</h3>
+<h4 align="center">Software Engineer | 7+ Years | Laravel · Vue.js · Node.js · AWS</h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/s-sadrul-hossain">
@@ -18,17 +18,12 @@
 
 ### 👨‍💻 About Me
 
-Seasoned Software Engineer with 7+ years of experience building scalable,
-secure, and high-traffic applications across **fintech, telecom, SaaS,
-and e-commerce** domains.
+Seasoned Software Engineer with 7+ years of experience building scalable, secure, and high-traffic applications across **fintech, telecom, SaaS, and e-commerce** domains.
 
-- 🔭 Currently working at **[Portonics Limited](https://portonics.com/)**
-  — building APIs for ATOM Myanmar's agent app serving **3M+ users**
-- 🏢 Previously at **Daraz BD (Alibaba Group)** — architected SaaS
-  platforms for 5 business ventures
-- 💳 Engineered **PSO payment gateways** integrating AMEX, Mastercard
-  & Visa, processing **1M+ BDT/month**
-- 📱 Developed **PWAs used by 41M+ subscribers** of Banglalink
+- 🔭 Currently working at **[Portonics Limited](https://portonics.com/)** — building APIs for **[ATOM Myanmar](https://www.atom.com.mm/en)**'s agent app serving **3M+ users**
+- 🏢 Previously at **[Daraz BD (Alibaba Group)](https://www.daraz.com.bd/)** — architected SaaS platforms for 5 business ventures
+- 💳 Engineered **PSO payment gateways** integrating AMEX, Mastercard & Visa, processing **1M+ BDT/month**
+- 📱 Developed **PWAs used by 41M+ subscribers** of **[Banglalink](https://banglalink.net)**
 - 🎯 Growing focus on **System Design & Software Architecture**
 
 ---
