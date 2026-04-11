@@ -1,5 +1,5 @@
 # 💫 About Me:
-Seasoned Software Engineer with 7+ years of experience building scalable,<br>secure, and high-traffic applications across **fintech, telecom, SaaS,<br>and e-commerce** domains.<br><br>- 🔭 Currently working at **[Portonics Limited](https://portonics.com/)**<br>  — building APIs for ATOM Myanmar's agent app serving **3M+ users**<br>- 🏢 Previously at **Daraz BD (Alibaba Group)** — architected SaaS<br>  platforms for 5 business ventures<br>- 💳 Engineered **PSO payment gateways** integrating AMEX, Mastercard<br>  & Visa, processing **1M+ BDT/month**<br>- 📱 Developed **PWAs used by 41M+ subscribers** of Banglalink<br>- 🎯 Growing focus on **System Design & Software Architecture*
+Seasoned Software Engineer with 7+ years of experience building scalable, secure, and high-traffic applications across **fintech, telecom, SaaS, and e-commerce** domains.<br>- 🔭 Currently working at **[Portonics Limited](https://portonics.com/)**<br>  — building APIs for ATOM Myanmar's agent app serving **3M+ users**<br>- 🏢 Previously at **Daraz BD (Alibaba Group)** — architected SaaS platforms for 5 business ventures<br>- 💳 Engineered **PSO payment gateways** integrating AMEX, Mastercard & Visa, processing **1M+ BDT/month**<br>- 📱 Developed **PWAs used by 41M+ subscribers** of Banglalink<br>- 🎯 Growing focus on **System Design & Software Architecture*
 
 
 ## 🌐 Socials:
