@@ -1,4 +1,4 @@
-<h3 align="center">Hello everyone 👋, I'm S. Sadrul Hossain.</h3>
+<h2 align="center">Hello everyone 👋, I'm S. Sadrul Hossain.</h3>
 <h4 align="center">Software Engineer | 7+ Years | Laravel · Vue.js · Node.js · AWS</h4>
 
 <p align="center">
@@ -31,6 +31,7 @@ Seasoned Software Engineer with **7+ years** of progressive experience building 
 ### 🛠️ Tech Stack
 
 **Languages**
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -38,6 +39,7 @@ Seasoned Software Engineer with **7+ years** of progressive experience building 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend**
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Vuex](https://img.shields.io/badge/Vuex-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -46,6 +48,7 @@ Seasoned Software Engineer with **7+ years** of progressive experience building 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Backend & Frameworks**
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Flight PHP](https://img.shields.io/badge/Flight_PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Slim](https://img.shields.io/badge/Slim-3E9BCE?style=flat-square&logo=php&logoColor=white)
@@ -54,6 +57,7 @@ Seasoned Software Engineer with **7+ years** of progressive experience building 
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 
 **Databases & Caching**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -61,6 +65,7 @@ Seasoned Software Engineer with **7+ years** of progressive experience building 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Cloud & DevOps**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -68,6 +73,7 @@ Seasoned Software Engineer with **7+ years** of progressive experience building 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 **Tools & Practices**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
